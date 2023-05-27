@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>187905463675-cq6pegvg6ssb5ec94gjcoim8t04ir42m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.187905463675-cq6pegvg6ssb5ec94gjcoim8t04ir42m</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>187905463675-1s739gmtelplq7ohc2dmv7ver9oorhhd.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC6RJr4bOW2M7b_Nct731K2Dic3uPxvLaY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>187905463675</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.payment.paynager</string>
+	<key>PROJECT_ID</key>
+	<string>paynager-96444</string>
+	<key>STORAGE_BUCKET</key>
+	<string>paynager-96444.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:187905463675:ios:fd081ffb38b03c242419de</string>
+</dict>
+</plist>
