@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "187905463675",
+    "project_id": "paynager-96444",
+    "storage_bucket": "paynager-96444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187905463675:android:1a4893b8284aaf2b2419de",
+        "android_client_info": {
+          "package_name": "Paynage.io"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187905463675-p6gkor1ba2ulf092iotntrfch7visnae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Paynage.io",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "187905463675-tsfqsqo5usfn38rem719vvekgui7m8gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_sAi2tyfBoAU6TB4VqkZRRyJ2PYxV1rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187905463675-tsfqsqo5usfn38rem719vvekgui7m8gc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "187905463675-cq6pegvg6ssb5ec94gjcoim8t04ir42m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.payment.paynager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187905463675:android:4e2282965301f5cd2419de",
+        "android_client_info": {
+          "package_name": "com.pay.paynager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187905463675-1s739gmtelplq7ohc2dmv7ver9oorhhd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pay.paynager",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "187905463675-tsfqsqo5usfn38rem719vvekgui7m8gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_sAi2tyfBoAU6TB4VqkZRRyJ2PYxV1rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187905463675-tsfqsqo5usfn38rem719vvekgui7m8gc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "187905463675-cq6pegvg6ssb5ec94gjcoim8t04ir42m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.payment.paynager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187905463675:android:3448aef45d86de492419de",
+        "android_client_info": {
+          "package_name": "com.payment.paynager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187905463675-n32896hif0jsr0ehcgelupvvfl3veo35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.payment.paynager",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "187905463675-tsfqsqo5usfn38rem719vvekgui7m8gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_sAi2tyfBoAU6TB4VqkZRRyJ2PYxV1rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187905463675-tsfqsqo5usfn38rem719vvekgui7m8gc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "187905463675-cq6pegvg6ssb5ec94gjcoim8t04ir42m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.payment.paynager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
